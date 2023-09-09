@@ -1,0 +1,23 @@
+/*  
+** Simple Contact from css file.
+*/
+
+.simple_contact_form_container {
+    width: 70%;
+    margin: 40px;
+    background-color: aliceblue;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.scf_input_field {
+    width: 100%;
+    margin: 10px 0px;
+    border-radius: 10px !important;
+}
+
+.scf_submit_btn{
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 100%;
+}
